@@ -1,0 +1,39 @@
+body{
+	
+}
+#nav-header{
+	background-color: floralwhite;
+	border-radius:0;
+	border:0;
+}
+#txt{
+	font-size: 2em;
+	text-align: left;
+}
+#nav-list{
+	margin-top: 0;
+}
+#nav-list a{
+	text-align: center;
+	background: pink;
+	margin-top: 1px;
+}
+.navbar-header button.navbar-toggle
+{
+margin-top: 26px;
+}
+p{
+	font-size: 1.5em;
+	margin-right: auto;
+	margin-left:auto;
+	background-color: cornsilk;
+	width: 90%;
+}
+#p3.p{
+	width: 100%;
+}
+span{
+   font-size: 1.5em;
+   margin-right: auto;
+   margin-left: auto;
+}
